@@ -1,12 +1,12 @@
 <urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
-		<loc>/sitemap.xml</loc>
+		<loc>sitemap.xml</loc>
 	</url>
 	<url>
-		<loc>/index.html</loc>
+		<loc>index.html</loc>
 	</url>
 	<url>
-		<loc>/robots.txt</loc>
+		<loc>robots.txt</loc>
 	</url>
 </urlset>
   
